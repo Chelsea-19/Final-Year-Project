@@ -83,7 +83,7 @@ Final-Year-Project/
 
 
 ## 🤝 Ackownledgement
- - Supervisor: Prof. Fei Ma (XJTLU)
+ - Supervisor: Prof. Fei Ma
  - Dataset: KiTS23 Challenge Organizers
  - Computing Support: Dr. Zixun Lan
  - Open-Source Tools: Open3D, PyMeshLab, BayesianOptimization

@@ -59,3 +59,42 @@ source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
+```  
+
+---
+
+## 📂 Directory Structure
+```text
+Final-Year-Project/
+├── Main_Process/
+│   ├── data_utils.py           # Functions for loading and preprocessing point clouds
+│   ├── main.py                 # Main script for processing kidneys and generating results
+│   ├── metrics.py              # Functions for computing evaluation metrics
+│   ├── poisson_reconstruction.py # Functions for Poisson surface reconstruction
+│   ├── seg.py                  # Functions for segmentation and volume calculation
+│   └── volume_estimation.py    # Function for estimating the volume of a mesh
+├── Resluts_Analysis/
+│   ├── stats.py                # Script for statistical analysis and visualization of results
+│   └── visualization.py        # Script for visualizing segmentation slices
+└── README.md                   # This README file
+```
+
+---
+
+
+## 🤝 Ackownledgement
+ - Supervisor: Prof. Fei Ma (XJTLU)
+ - Dataset: KiTS23 Challenge Organizers
+ - Computing Support: Dr. Zixun Lan
+ - Open-Source Tools: Open3D, PyMeshLab, BayesianOptimization
+
+---
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## ✉️ Contact
+If you have any questions or feedback, please feel free to contact the project maintainer at [Felix.Liang24atoutlook.com].
+
